@@ -86,7 +86,7 @@ public class Assignment {
         System.out.print("Enter First Name: ");
         String fName = scanner.nextLine();
         
-        
+        // sixth commit 
         System.out.print("Enter Last Name: ");
         String lName = scanner.nextLine();
         
