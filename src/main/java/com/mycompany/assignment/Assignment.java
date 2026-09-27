@@ -65,7 +65,7 @@ public class Assignment {
                 return "Cell phone number incorrectly formatted or does not contain international code.";
             }
         }
-        
+        //third commit
         public boolean loginUser(String enteredUsername, String enteredPassword) {
             return this.username.equals(enteredUsername) && this.password.equals(enteredPassword);
         }
