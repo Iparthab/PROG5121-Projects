@@ -57,7 +57,7 @@ public class Assignment {
             }
             return "Username and password successfully capturerd.";
         }
-        
+        // Adding my second commit 
         public String checkCellPhoneRegistration() {
             if (checkCellPhoneNumber()) {
                 return "Cell phone number successfully added.";
