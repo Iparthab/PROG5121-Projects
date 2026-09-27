@@ -69,7 +69,7 @@ public class Assignment {
         public boolean loginUser(String enteredUsername, String enteredPassword) {
             return this.username.equals(enteredUsername) && this.password.equals(enteredPassword);
         }
-        
+        // fourth commit
         public String returnLoginStatus(boolean isLoggedIn) {
             if (isLoggedIn) {
                 return "Welcome " + firstName + "," + lastName + " it is great to see you again.";
